@@ -15,6 +15,13 @@ PATH_CONF_LIST = FILE_DIR + "code/util/datamining_conf_list.txt"
 PATH_AUTHOR_DOC = FILE_DIR + "data/authorDocs.txt"
 PATH_CONF_DOC = FILE_DIR + "data/confDocs.txt"
 
-PATH_LDA_DIC = FILE_DIR + "lda_dic.dict"
-PATH_LDA_MM = FILE_DIR + "lda_mm.mm"
-PATH_LDA_VEC = FILE_DIR + "lda_vec_100.txt"
+PATH_LDA_DIC = FILE_DIR + "data/lda_dic.dict"
+PATH_LDA_MM = FILE_DIR + "data/lda_mm.mm"
+PATH_LDA_VEC = FILE_DIR + "data/lda_vec_100.txt"
+
+PARAM_TESTING_START = 2012
+PARAM_MIN_COAUTHORS = 5
+PARAM_TARGETNODE_NUM = 100
+
+PATH_TARGETNODE_LIST = FILE_DIR + "code/util/targetnode_" \
+    + str(PARAM_TARGETNODE_NUM) + ".txt"

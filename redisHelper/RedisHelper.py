@@ -94,9 +94,16 @@ class RedisHelper:
     
     def getAuConfs(self, author):
         return self.AuConfSet.smembers(author)
-    
+
     def getConfAuthors(self, conf):
         return self.ConfAuSet.smembers(conf)
+
+    def getAuPaperTimes(self, author):
+        coauthors = self.getAuCoauthors(author)
+        times = list()
+        for coau in coauthors:
+            times.extend(self.getCoTimeList(author, coau))
+        return list(set(times))
 
     def getCoTimeList(self, author, coauthor):
         return self.AuAuTimeSet.smembers(author + ':' + coauthor)

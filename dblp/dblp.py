@@ -13,7 +13,7 @@ from pydoc import Doc, doc
 sys.path.append('..')
 from xml.sax import handler, make_parser
 from util.Params import *
-from util.util import *
+from util.utils import *
 import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', \
                     level=logging.INFO)
