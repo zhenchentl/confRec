@@ -25,3 +25,10 @@ PARAM_TARGETNODE_NUM = 100
 
 PATH_TARGETNODE_LIST = FILE_DIR + "code/util/targetnode_" \
     + str(PARAM_TARGETNODE_NUM) + ".txt"
+
+PATH_RECOM_LIST = FILE_DIR + "code/util/recomlist_" \
+    + str(PARAM_TARGETNODE_NUM) + "_recomnew_rwr_weighted_conf20.txt"
+
+PAHT_CONF_SOI = FILE_DIR + "code/util/confH5"
+
+PARAM_IS_RECOM_NEW = True

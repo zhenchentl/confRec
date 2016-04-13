@@ -24,7 +24,7 @@ class baseLda:
         for line in open(PATH_AUTHOR_DOC, 'r'):
             self.docs.append(line.split())
             self.authorDocEnd += 1
-        for line in open(PATH_CONF_DOC, 'r'):
+        for line in open(PATH_CONF_DOCNF_DOC, 'r'):
             self.docs.append(line.split())
         print len(self.docs)
 
@@ -48,7 +48,7 @@ class baseLda:
             num_topics=100, update_every=1, chunksize=10000, passes=1)
         logging.info('LDA End')
         self.corpus_lda = list(lda[mm])
-        return self.corpus_lda
+        self.saveVec(self.corpus_lda)
 
     def saveVec(self):
         authors = self.mRedis.getAllAuthors()
@@ -72,4 +72,3 @@ if __name__ == '__main__':
     baselda = baseLda()
 #     baselda.lda_setp1()
     baselda.lda_step2()
-    baselda.saveVec()

@@ -1,6 +1,16 @@
 eclipse.preferences.version=1
 encoding//dblp/dblp.py=utf-8
+encoding//friends/friends.py=utf-8
+encoding//friends/performance.py=utf-8
+encoding//friends/recom_frie.py=utf-8
+encoding//randomwalk/graph.py=utf-8
+encoding//randomwalk/pagerank.py=utf-8
+encoding//randomwalk/performance.py=utf-8
+encoding//randomwalk/recom_rwr.py=utf-8
 encoding//redisHelper/RedisHelper.py=utf-8
 encoding//topic/lda.py=utf-8
+encoding//topic/performance.py=utf-8
+encoding//topic/recom_lda.py=utf-8
 encoding//util/Params.py=utf-8
+encoding//util/performanceSOI.py=utf-8
 encoding//util/utils.py=utf-8

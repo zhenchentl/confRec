@@ -1,0 +1,100 @@
+Nick Cercone
+Tova Milo
+Aijun An
+Toon Calders
+Vijay V. Raghavan
+Sourav S. Bhowmick
+Meichun Hsu
+Klemens B
+Hiroshi Motoda
+Tzung-Pei Hong
+Karl Aberer
+Qiang Yang 0001
+Jinyan Li
+Chuan Yi Tang
+Divyakant Agrawal
+Chris Clifton
+Stefano Rizzi
+Il-Yeol Song
+Douglas Stott Parker Jr.
+Hiroki Arimura
+Aixin Sun
+Laks V. S. Lakshmanan
+Kotagiri Ramamohanarao
+Philip S. Yu
+Srinivasan Parthasarathy
+Wang-Chien Lee
+Amit P. Sheth
+Xindong Wu
+Ke Wang
+Shamkant B. Navathe
+Joydeep Ghosh
+Hillol Kargupta
+Dennis McLeod
+Wei Fan
+George Karypis
+Alfons Kemper
+Masatoshi Yoshikawa
+Michael K. Ng
+Frank Klawonn
+Huan Liu
+Christian B
+Javed A. Aslam
+Fosca Giannotti
+Bing Liu 0001
+Reda Alhajj
+Stefan Kramer
+Wei Wang 0009
+Diane J. Cook
+Shusaku Tsumoto
+Mounia Lalmas
+Martin Ester
+David Jensen
+Eamonn J. Keogh
+H. V. Jagadish
+Bernhard Pfahringer
+Osmar R. Za
+Nitesh V. Chawla
+Aoying Zhou
+Einoshin Suzuki
+Xiaoyong Du
+Jeffrey F. Naughton
+Kyuseok Shim
+Peter Scheuermann
+Guozhu Dong
+Jianzhong Li
+Sanjay Chawla
+Hans-Peter Kriegel
+Rakesh Agrawal
+Maguelonne Teisseire
+Ning Zhong
+Chengqi Zhang
+C. Lee Giles
+Myra Spiliopoulou
+Bhavani M. Thuraisingham
+Ming-Syan Chen
+Dimitri Theodoratos
+Elena Ferrari
+Daniel A. Keim
+Farshad Fotouhi
+Matteo Golfarelli
+Domenico Sacc
+Gerhard Weikum
+Jian Pei
+Dino Pedreschi
+Raymond T. Ng
+Cyrus Shahabi
+David J. Hand
+Masaru Kitsuregawa
+Bart Goethals
+Hiroyuki Kitagawa
+Aristides Gionis
+Xiaohui Liu
+Ravi Kumar
+Kazumi Saito
+Le Gruenwald
+Kian-Lee Tan
+Amr El Abbadi
+Jeffrey Xu Yu
+Takashi Washio
+Michael J. Franklin

@@ -1,100 +1,100 @@
-Tingting He
-Isaac K. Tetteh
-Wook-Shin Han
-Jia Zhang
-Yanqiu Shao
-Timo Honkela
-Bernard De Baets
-Georg Lausen
-James P. Rogers
-Dhruv Kumar Mahajan
-Shahab Kamali
-Yanping Zhang
-Susan Gauch
-Jianjun Yu
-Yiping Li
-Sheng Huang
-Yuki Arase
-Tianyi Zhou
-Michalis Potamias
-Domonkos Tikk
-Mauricio Mar
+Shili Xiang
+Kush R. Varshney
+Aijun An
+Jian Zhang
+Jing Jiang
+Yannick Toussaint
+Alexandre Termier
+Jing Wang
+Maria Halkidi
+Tiancheng Lou
+Kun Li
+Dan Olteanu
+Sandra de Amo
+Joseph G. Davis
+Anne-Laure Boulesteix
+Thanawin Rakthanmanon
+Pankaj K. Agarwal
+Betul Ceran
+Fabian M. Suchanek
+Guilin Qi
+Ben He
+Mark Crovella
+Mansur R. Kabuka
+John Tran
+Arash Termehchy
+Jihong Guan
 Yasuko Matsubara
-Wei Cao
-John C. S. Lui
-William R. Schucany
-Alexandros Kalousis
-Yanshan Xiao
-Qiang Ma 0001
-Li Yan
-Hui Wang 0001
-David C. Anastasiu
-Varun Mithal
-Chilukuri K. Mohan
-Rong Zhu
-Chao Gao
-Zhendong Niu
-Tran Cao Son
-Georges Dupret
-Baoqing Jiang
-Kim Schouten
-El
-Man Lung Yiu
-Hiroshi Nakagawa
-Chun Wang
-Yi Guo
-Shixia Liu
-Steven Versteeg
-Kannan Mohan
+Yi Fang
+Parham Moradi
+Thomas B
+Sangho Lee
+Marcelo Mendoza
+Arun S. Maiya
+Yves Grandvalet
+Wei Su
+Babiga Birregah
+Nathaniel Troutman
+Wei Lu
+Salvatore Scellato
+Amitabha Bagchi
+Peter-Paul van Maanen
+Emmanuel Ramasso
+Jia Zeng
+Ke Zhou
+Ikram Amous
+Feng Li
+Colin Fyfe
+S. K. Gupta
+Min-Soo Kim 0002
+Fionn Murtagh
+Zhang Xiong
 Dunja Mladenic
-Sugato Basu
-É
-Eliyahu Safra
-Vikas Sindhwani
-Lu Liu
-Christian Posse
-Muhammad Saeed
-Rod Hook
-Giovanna Guerrini
-Inbal Ronen
-Antti Ukkonen
-Sibel Adali
-Claudiu S. Firan
-Min Zhu
-Dominic DiFranzo
-Vadlamani Ravi
-Kun Zhang
-Rami Puzis
-Mahadevan Subramaniam
-Roland Fried
-Incheon Paik
-Xue Bai
-Michael Rabinovich
-Gil Gonz
-Giovanni Grasso
-John Guiver
-Jinglu Hu
-Xinying Song
-Tom Yeh
-Masaharu Yoshioka
-Pavel Serdyukov
-Maoqiang Xie
-Krishna R. Pattipati
-Jianyong Wang
-Laurianne Sitbon
-Seung-Hwan Lim
-Fan Jiang
-Guoren Wang
-Kathy Lee
-Manabu Okumura
-John Mark Agosta
-Xiaojun Jing
-Christel Baier
-Themis Palpanas
-Mingqiang Xue
-William G. Hanley
-Jaak Vilo
-Xueli Liu
-Ming Zhang
-Ran El-Yaniv
-Ying Cai
+Yue Xu
+David Miller
+Christophe Rigotti
+Jilin Chen
+Bo Luo
+Sachindra Joshi
+Lasse Holmstr
+Jia-Yu Pan
+Yi Mao
+Francis Maes
+Jonathan M. Garibaldi
+Dimitri Theodoratos
+Steven W. Zucker
+Fulvio Corno
+Dmitri Williams
+Chaokun Wang
+Elad Yom-Tov
+Zheng Zhao
+Rong Jin
+Chi-Yin Chow
+James Aspnes
+Nathan Gnanasambandam
+Eric Hsueh-Chan Lu
+Jin-Ho Kim
+Ernesto Jim
+Charles A. Sutton
+Jeffrey Pound
+Lars Kulik
+Christie I. Ezeife
+Yukinobu Hamuro
+Mark A. Friedl
+Laiwan Chan
+Peter Fox
+Zhoujun Li
+Yalin Wang
+Benno Stein
+Yuan Tian
+Darrell D. E. Long
+Tian Xia
+Bipin C. Desai
+Yue Lu
+Kuntal Dey
+Yutaka Matsuo
+Qinghua Zheng
+Elisa Turricchia
+John Zeleznikow
+Ana Carolina Salgado
+M. Asif Naeem

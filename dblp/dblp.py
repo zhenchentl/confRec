@@ -47,8 +47,8 @@ class dblpHandler(handler.ContentHandler):
         logging.info("Document Start...")
 
     def endDocument(self):
-        saveArticleToDisk(self.mRedis, self.authorTitleIDs, \
-                          self.confTitleIDs, self.titlesDict)
+#         saveArticleToDisk(self.mRedis, self.authorTitleIDs, \
+#                           self.confTitleIDs, self.titlesDict)
         logging.info("Document End...")
 
     def startElement(self, name, attrs):
@@ -69,11 +69,11 @@ class dblpHandler(handler.ContentHandler):
             if self.isPaperTag:
                 self.isPaperTag = False
                 self.mRedis.addItem(self.authors, self.conf, self.year)
-                cTitleIDs = self.confTitleIDs.setdefault(self.conf,[])
-                cTitleIDs.append(self.currentID)
-                for author in self.authors:
-                    aTitleIDs = self.authorTitleIDs.setdefault(author,[])
-                    aTitleIDs.append(self.currentID)
+#                 cTitleIDs = self.confTitleIDs.setdefault(self.conf,[])
+#                 cTitleIDs.append(self.currentID)
+#                 for author in self.authors:
+#                     aTitleIDs = self.authorTitleIDs.setdefault(author,[])
+#                     aTitleIDs.append(self.currentID)
                 self.authors = []
                 self.conf = ''
                 self.year = ''
